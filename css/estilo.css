@@ -1,0 +1,28 @@
+body{
+    background-color: crimson;
+}
+
+figure{
+    text-align: center;
+}
+
+.dinossauro{
+    width: 50%;
+    text-align: center;
+}
+figure{
+    text-align:center;
+}
+.rainha{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 2em;
+}
